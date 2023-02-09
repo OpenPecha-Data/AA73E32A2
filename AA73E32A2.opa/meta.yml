@@ -1,0 +1,16 @@
+id: AA73E32A2
+title: 'MSV 1,07: Cīvaravastu'
+type: translation
+pechas:
+- IDBA6AB94
+- I48E5D844
+source_metadata:
+  languages:
+  - sa
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:07:11.730186
+  last_modified_at: 2023-02-09 15:07:11.730200
+alignment_to_base:
+  IDBA6AB94/7D22: '9808'
+  I48E5D844/3D4D: '9808'
